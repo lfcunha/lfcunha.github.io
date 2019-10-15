@@ -1,0 +1,31 @@
+to rebuild the website after making changes:
+
+bundle exec jekyll serve --incremental --watch
+
+
+or
+
+jekyll serve
+
+
+
+themes:
+https://github.com/jekyll/minima
+
+
+adding new themes:
+https://www.inmotionhosting.com/support/website/jekyll-website/how-to-change-your-jekyll-theme-with-rubygems
+
+# change or edit themes
+
+https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+open $(bundle show minima)
+
+
+
+
+# nice examples:
+https://techcrucible.net/webdev/gettingstarted.html
+https://bergvca.github.io/   https://bergvca.github.io/resume.html
+https://pages-themes.github.io/hacker/

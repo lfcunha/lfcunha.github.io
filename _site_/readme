@@ -1,0 +1,8 @@
+to rebuild the website after making changes:
+
+bundle exec jekyll serve --incremental --watch
+
+
+or
+
+jekyll serve
